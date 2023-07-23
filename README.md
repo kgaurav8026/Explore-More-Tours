@@ -1,2 +1,2 @@
-# React-Trippy-TourWebsite
+# Explore-More-Tours
 Created with CodeSandbox
